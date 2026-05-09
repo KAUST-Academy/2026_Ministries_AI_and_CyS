@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C \"c:/Coding_Projects/2026_Ministries_AI_and_CyS\" remote -v)"
+    ]
+  }
+}
